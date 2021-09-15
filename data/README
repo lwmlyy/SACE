@@ -1,0 +1,8 @@
+Download the evaluation framework from the following link and put it in the current folder.
+http://lcl.uniroma1.it/wsdeval/data/WSD_Evaluation_Framework.zip
+
+‘CSI_data’ is retrieved from the resource provided by the following paper.
+
+{Caterina Lacerra, Michele Bevilacqua, Tommaso Pasini, Roberto Navigli. 2020. CSI: A Coarse Sense Inventory for 85%Word Sense Disambiguation. In Proceedings of The Thirty-Fourth AAAI Conference on Artificial Intelligence, Pages 8123-8130. Association for the Advancement of Artificial Intelligence.}
+
+'tag_semcor.txt' contains all the lemmas and sense keys that appear in SemCor.
