@@ -58,6 +58,7 @@ This codebase is Attribution-NonCommercial 4.0 International licensed, as found 
 | SACElarge+ | 83.6 | 81.4 | 77.8  | 82.4 | 87.3* | 82.9* | 85.3 | 74.2 | 85.9 | 87.3 |
   
 Please cite:  
+```
 {wang-wang-2021-word,
     title = "Word Sense Disambiguation: Towards Interactive Context Exploitation from Both Word and Sense Perspectives",
     author = "Wang, Ming  and
@@ -71,3 +72,4 @@ Please cite:
     doi = "10.18653/v1/2021.acl-long.406",
     pages = "5218--5229"
 }
+```
